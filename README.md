@@ -17,9 +17,10 @@ This full-stack application allows users to find nearby places based on longitud
 - **OpenLiteSpeed**: For proxying backend services
 - **CyberPanel**: For server management
 
-## Screenshot
+## Screenshots
 
-![Website Visual](https://sonerseylan.com.tr/report/Web_Site.png)
+![Website Visual 1](https://sonerseylan.com.tr/report/Web_Site.png)
+![Website Visual 2](https://sonerseylan.com.tr/report/Web_Site2.png)
 
 ## License
 
